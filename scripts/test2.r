@@ -1,6 +1,6 @@
 qqq
 cat(2)1
-<<<<<<< HEAD
+<<<<<<< HEADsdfsadf
 bbb
 dfg
 =======
