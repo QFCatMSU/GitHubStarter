@@ -1,7 +1,11 @@
-qqq
-cat(2)1
-<<<<<<< HEADsdfsadf
-bbb
+qqqgdfggdsfgsdfg
+
+kg
+sdfa
+cat(fdgs
+	 2)1
+<<<<<<< HEAD
+bbbsdgasd
 dfg
 =======
 dfg2
