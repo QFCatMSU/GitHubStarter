@@ -1,8 +1,8 @@
-qqq
-cat(2)1
-<<<<<<< HEADsdfsadf
-bbb
-dfg
+dqqq
+caft(2)1
+<<<<<<< HEADdfsadf
+dbbb
+tdfg
 =======
-dfg2
+dfgh2
 >>>>>>> 42dfa6ba0a4e66f8ba933ea454a13f5980449569
