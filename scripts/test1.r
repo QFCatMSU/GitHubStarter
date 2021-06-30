@@ -1,6 +1,4 @@
 <<<<<<< HEAD11111
-<<<<<<< HEADaaa
-<<<<<< HEAD22222
 <<<<<<< HEAD
 catsdfsffs(12)
 =======hsdgsdfg
