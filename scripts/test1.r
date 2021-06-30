@@ -1,5 +1,6 @@
 <<<<<<< HEAD11111
 <<<<<<< HEAD
+<<<<<<< HEAD
 catsdfsffs(12)
 =======hsdgsdfg
 =======
@@ -13,6 +14,10 @@ erty
 <<<<<<< HEAD
 <<<<<<< HEAD
 catsdfsffds(12)
+=======
+<<<<<<< HEADaaa
+
+>>>>>>> 303ca5d589371e02c1a7c67f5983a7bac50d282d
 >>>>>>> ce9e32308cf3781c5d6911ab068e16cca5aa331f
 =======
 cat(1)
