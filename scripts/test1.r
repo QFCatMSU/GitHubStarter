@@ -1,20 +1,6 @@
 <<<<<<< HEAD11111
 <<<<<<< HEADaaa
-<<<<<< HEAD22222
-<<<<<<< HEAD
-catsdfsffs(12)
-=======hsdgsdfg
-=======
-catsdfsffs(12)fasdf
-=======
->>>>>>> f7d367c5a2dd9c47178062b819282ca2808c08e8
-111ret
-444ers
-erty
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-catsdfsffds(12)
+
 >>>>>>> ce9e32308cf3781c5d6911ab068e16cca5aa331f
 =======
 cat(1)

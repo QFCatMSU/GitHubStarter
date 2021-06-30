@@ -1,17 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<< HEAD
-=======
-222jdfydt
-333syhrft
-jytd
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ce9e32308cf3781c5d6911ab068e16cca5aa331f
-fdscxvgdfdsfgdsgfretg
-=======hersd>> f5f884600332d76bf6aae07d4b085130ce53f567
-=======jhkg
+
 222
 <<<<<<< HEAD
 333>>>>>hjkghk
