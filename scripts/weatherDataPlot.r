@@ -46,12 +46,12 @@
       " days with strong winds for the south.\n\n");
 
   cat(sep="", "The average change in temperature for days with strong winds",
-      " from the north was: ", round(mean(changeTempNorth), digits=1),
+      " from the north was:\n\t", round(mean(changeTempNorth), digits=1),
       "\U00b0", "F +/- ", round(sd(changeTempNorth), digits=1), "\U00b0",
       "F\n\n");
 
   cat(sep="", "The average change in temperature for days with strong winds",
-      " from the south was: ", round(mean(changeTempSouth), digits=1),
+      " from the south was:\n\t", round(mean(changeTempSouth), digits=1),
       "\U00b0", "F +/- ", round(sd(changeTempSouth), digits=1), "\U00b0",
       "F\n");
 }
